@@ -7,6 +7,6 @@ Cleaner code than the previous one and heavily commented for personal study purp
 Just practicing simple DOM manipulation.
 
 First time using a linter
-Live demo: https://jacknoddyz.github.io/secondtodo/
+Live demo: https://acguiller.github.io/secondtodo/
 
 Happy coding :)!
